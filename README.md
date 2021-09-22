@@ -20,4 +20,4 @@ optional arguments:
                         Output file name to store output
 ```  
 
-For more details visit : https://sec-art.net/ 
+For more details visit : https://sec-art.net/?p=59 
